@@ -80,6 +80,3 @@ Thank you for using Eskak Web Application!
 ---
 
 **Developed by Branden van Staden**
-```
-
-You can copy and paste this content into your README.md file on GitHub, and it will provide a professional and interactive guide for users to get started with your Django Capstone project.
