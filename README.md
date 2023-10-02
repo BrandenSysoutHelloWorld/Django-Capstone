@@ -72,8 +72,7 @@ The Eskak Web Application is designed to help users track their power consumptio
 If you would like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+non
 
 Thank you for using Eskak Web Application!
 
