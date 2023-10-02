@@ -1,6 +1,9 @@
 ## Git Ignore ##
 # Requires Ignore ...
 
+# Ignore Configuration Files
+*.conf
+
 # Ignore all logs
 *.logdis
 
