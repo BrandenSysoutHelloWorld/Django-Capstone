@@ -1,0 +1,5 @@
+# Nginx image as the base image
+FROM nginx:latest
+
+# Copies custom Nginx configuration file into the container
+COPY mynginx.conf /etc/nginx/conf.d/default.conf
