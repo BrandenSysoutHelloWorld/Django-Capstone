@@ -1,4 +1,3 @@
-```markdown
 # Django Capstone - Eskak
 
 Welcome to the Django Capstone Project - Featuring Eskak Web Application with Generated Documentation by Sphinx.
