@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    image: eskak:latest
+    ports:
+      - "80:8000"
+    environment:
+      - DJANGO_SETTINGS_MODULE=myEskak.settings
+    volumes:
+      - ./myEskak:/myEskak
