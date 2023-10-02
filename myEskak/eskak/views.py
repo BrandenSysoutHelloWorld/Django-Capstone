@@ -8,8 +8,7 @@ from .models import Entry
 
 # LANDING VIEW
 def landing_view(request):
-    """
-    Display the landing page.
+    """Display the landing page.
 
     This view renders the landing page for the Eskak application.
 
@@ -132,12 +131,3 @@ def delete_entry(request, entry_id):
         # Entry with the provided ID does not exist, redirect with an error message
         error_message = 'Entry not found'
         return HttpResponseRedirect(reverse('eskak:previous_entry_view') + f'?error_message={error_message}')
-   
-
-'''
-Made with ❤️
-------------
-BRANDEN VAN STADEN -
-    All rights reserved | September 2023
--------------------------------------
-'''

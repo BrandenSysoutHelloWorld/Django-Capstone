@@ -13,11 +13,3 @@ urlpatterns = [
     path('previous-entries/', views.previous_entries_view, name='previous_entry_view'),
     path('delete_entry/<int:entry_id>/', views.delete_entry, name='delete_entry'),
 ]
-
-'''
-Made with ❤️
-------------
-BRANDEN VAN STADEN -
-    All rights reserved | September 2023
--------------------------------------
-'''
