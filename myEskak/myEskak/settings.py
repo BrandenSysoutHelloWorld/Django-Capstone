@@ -26,10 +26,7 @@ SECRET_KEY = 'django-insecure-*&d4=n5vf^)x8wsou_m6bh(r69osd_q87((5=gds4aym6h1w!q
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'wazaware.co.za',
-    '172.17.0.1',
-    '162.19.226.81',
-    '127.0.0.1'
+
 ]
 
 # Application definition
