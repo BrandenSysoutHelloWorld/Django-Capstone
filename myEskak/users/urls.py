@@ -9,7 +9,7 @@ app_name = 'users'
 urlpatterns = [
     # USER REGISTRATION ROUTES
     path('auth/', views.login_user, name='login_user'),
-    path('login/', views.login_view, name='login_view'),
+    path('login_view/', views.login_view, name='login_view'),
     # USER REGISTRATION ROUTES
     path('register/', views.register_view, name='register_view'),
     path('create/', views.register_user, name='create_user'),
