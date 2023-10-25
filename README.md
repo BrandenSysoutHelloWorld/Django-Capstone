@@ -1,4 +1,4 @@
-# Eskak Django
+# Eskak WebApplication
 
 Welcome to the Django Project - Featuring Eskak Web Application with Generated Documentation by Sphinx.
 
