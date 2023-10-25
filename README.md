@@ -67,10 +67,6 @@ You should now be able to access the Eskak Web Application in your browser.
 
 The Eskak Web Application is designed to help users track their power consumption by recording electricity units and generating valuable reports and insights.
 
-## Contributing
-
-If you would like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 non
 
