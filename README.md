@@ -1,6 +1,6 @@
-# Django Capstone - Eskak
+# Eskak Django
 
-Welcome to the Django Capstone Project - Featuring Eskak Web Application with Generated Documentation by Sphinx.
+Welcome to the Django Project - Featuring Eskak Web Application with Generated Documentation by Sphinx.
 
 ## Table of Contents
 1. [Overview](#overview)
